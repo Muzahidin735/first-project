@@ -1,2 +1,3 @@
 # first-project
-it contain nothing
+it contain nothing 
+learning git
